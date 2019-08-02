@@ -1,5 +1,5 @@
 # Description
-This repo contains a collection of __machines__ and __stacks__ that demonstrate simple operations of the ZCMD framework.  Don't have the framework yet or not sure what that is?  Get the scoop and install it from this URL ...
+This repo contains a collection of __machines__ and __stacks__ that are ready for launch and use through the ZCMD framework.  Don't have the ZCMD framework yet or not sure what that is?  Get the scoop and install it from this URL ...
 
 * https://github.com/bah-insignia/zcmd
 
@@ -18,4 +18,7 @@ Demonstration items under this folder are bare operating system examples.
 web
 ---
 Demonstration items under this folder are web application examples.
+
+# Things To Do
+Use these machines and stacks to learn more about other operating systems and applications.  Most folders have some helful tips and instructions to help you get going.
 

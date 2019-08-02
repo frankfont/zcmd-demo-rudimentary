@@ -1,5 +1,7 @@
-Bare OS of the full featured popular Ubuntu operating system.
+# Description
+Machine folder context of the full featured popular Ubuntu operating system.
 
+# Command Tips
 Build your image locally
 * zcmd build
 
