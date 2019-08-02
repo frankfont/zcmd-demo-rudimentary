@@ -23,8 +23,8 @@ Demonstration items under this folder are web application examples.
 Use these machines and stacks to learn more about other operating systems and applications.  Most folders have some helpful tips and instructions to get going.
 
 ## Machine folders
-Easy place to start playing with Dockerfile ideas.  The existing __Dockerfile__ examples are minimal.
+Easy place to start playing with Dockerfile ideas.  The existing __Dockerfile__ and __machine.env__ examples are minimal.
 
 ## Stack folders
-Easy place to start playing around with Docker Compose ideas.  The existing __docker-compose.yml__ examples are minimal.
+Easy place to start playing around with Docker Compose ideas.  The existing __docker-compose.yml__ and __stack.env__ examples are minimal.
 
