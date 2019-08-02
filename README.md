@@ -26,5 +26,5 @@ Use these machines and stacks to learn more about other operating systems and ap
 Easy place to start playing with Dockerfile ideas.  The existing __Dockerfile__ examples are minimal.
 
 ## Stack folders
-Easy place to start playing around with Docker Compose ideas.  The existing __docker-conmpose.yml__ examples are minimal.
+Easy place to start playing around with Docker Compose ideas.  The existing __docker-compose.yml__ examples are minimal.
 
