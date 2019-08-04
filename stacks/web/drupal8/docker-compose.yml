@@ -2,7 +2,7 @@ version: '3.5'
 
 services:
 
-  drupal:
+  webserver:
     image: drupal:8-apache
     ports:
       - "$WEB_PORT80:80"

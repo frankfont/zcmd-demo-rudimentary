@@ -1,7 +1,7 @@
 version: '3.5'
 
 services:
-  joomla:
+  webserver:
     image: joomla:3
     restart: always
     links:
